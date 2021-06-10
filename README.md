@@ -54,6 +54,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
  * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
  * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview)
+ * [The technical interview: more than just assessing a candidate](https://medium.com/meliopayments/the-technical-interview-more-than-just-assessing-a-candidate-d490f20afcd4)
  
 ## Management
 
@@ -91,6 +92,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Hug your manager](https://buttondown.email/cote/archive/hug-your-manager/)
  * [Lessons from Keith Rabois: How to be an Effective Executive](https://delian.io/lessons-3)
  * [How Context Switching Sabotages Your Productivity](https://blog.doist.com/context-switching/)
+ * [Three counterintuitive mindset shifts in engineering leadership](https://www.acumen.io/blog/being-a-great-leader-means-killing-your-ideas-3-counterintuitive-mindset-shifts-in-engineering-leadership)
  
 ## Handbooks
 
@@ -120,6 +122,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
    * [Startup Lessons Learned - Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) - Eric Ries *(creator of the Lean Startup)*
    * [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
    * [Testing in Production, the safe way](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1)
+   * [Optimizing Bugs Fix Policy](https://dudu-cohen.medium.com/optimizing-bugs-fix-policy-49838be8a8a1)
 
 
 ## Architecture
